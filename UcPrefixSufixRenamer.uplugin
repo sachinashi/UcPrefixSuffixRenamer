@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.5.4.0001",
+	"FriendlyName": "UcPreSufFixRenamer",
+	"Description": "Rename Asset Prefix Suffix",
+	"Category": "Editer",
+	"CreatedBy": "Sachinashi",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"NoCode": true
+}

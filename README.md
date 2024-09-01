@@ -19,11 +19,12 @@ Texture に、一括で T_ を追加したい場合などに便利です。
 アセットのリネーム例
 
 ## リネームの準拠先
-以下の命名規則に準拠しています。
+基本的には以下の命名規則に準拠しています。
 
 https://github.com/akenatsu/ue4-style-guide/blob/master/README.jp.md
 
 ただし、今後使用頻度が縮小していく matinee や particle のようなものは除外してあります。
+
 
 ## 実装済一覧
 
@@ -97,6 +98,7 @@ Prefix（接頭辞）一覧
 |Niagarasystem|NS_|
 |NiagaraEmitter|NE_|
 |NiagaraModule|NM_|
+|Metasound|MS_|
 
 Suffix（接尾辞）一覧
 
@@ -116,6 +118,7 @@ Suffix（接尾辞）一覧
 |Texture(Specular)|_S|
 |Texture(Metallic)|_M|
 |ColorCurve|_Color|
+|SoundCue|_Cue|
 |CurveTable|_Table|
 |FloatCurve|_Float|
 |VectorCurve|_Vector|

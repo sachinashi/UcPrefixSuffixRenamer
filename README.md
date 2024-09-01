@@ -118,9 +118,9 @@ Suffix（接尾辞）一覧
 |Texture(Specular)|_S|
 |Texture(Metallic)|_M|
 |ColorCurve|_Color|
-|SoundCue|_Cue|
 |CurveTable|_Table|
 |FloatCurve|_Float|
 |VectorCurve|_Vector|
 |SoundConcurrency|_SC|
+|SoundCue|_Cue|
 

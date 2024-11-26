@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.5.4.0002",
+	"VersionName": "1.5.5.0002",
 	"FriendlyName": "UcPreSufFixRenamer",
 	"Description": "Rename Asset Prefix Suffix",
 	"Category": "Editer",
@@ -10,7 +10,7 @@
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
-	"EngineVersion": "5.4.0",
+	"EngineVersion": "5.5.0",
 	"CanContainContent": true,
 	"Installed": true,
 	"NoCode": true
